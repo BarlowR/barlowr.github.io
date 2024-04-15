@@ -4,17 +4,18 @@
 <link href="/assets/js/Cesium/Widgets/widgets.css" rel="stylesheet">
 
 
-<div id="gpx_dir" style="display: none;">{{ include.gpx_file }}</div>
-<div id="clamp_to_ground" style="display: none;">{{ include.clamp_to_ground }}</div>
-<div id="cesiumContainer"></div>
-  <script>
+<div id="gpx_dir{{ include.num }}" style="display: none;">{{ include.gpx_file }}</div>
+<div id="clamp_to_ground{{ include.num }}" style="display: none;">{{ include.clamp_to_ground }}</div>
+<div id="cesiumContainer{{ include.num }}"></div>
+<script>
+  (function() {
     // Your access token can be found at: https://ion.cesium.com/tokens.
     // This is the default access token from your ion account
 
     Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIzZGY3Mzk4MS1jMmJlLTQyOGEtOWU5Yy03YmQzNGEzNmQ2ZDEiLCJpZCI6MTM2MDgwLCJpYXQiOjE2ODI3MTc1NjJ9.K4F5Qh2whPzLuaNqpZ1SXuTCyWszHHFng2ZrDOy_Rq0';
 
     // Initialize the Cesium Viewer in the HTML element with the `cesiumContainer` ID.
-    const viewer = new Cesium.Viewer('cesiumContainer', {
+    const viewer = new Cesium.Viewer('cesiumContainer{{ include.num }}', {
         animation: false,
         baseLayerPicker: true,
         geocoder: false,
@@ -43,15 +44,15 @@
       mapBox
     );
       
-    const gpx_file = document.getElementById("gpx_dir").innerText;
-    const clamp_to_ground = 
-      (document.getElementById("clamp_to_ground").innerText === "true");
+    const gpx_file = document.getElementById("gpx_dir{{ include.num }}").innerText;
+    const clamp_to_ground{{ include.num }} = 
+      (document.getElementById("clamp_to_ground{{ include.num }}").innerText === "true");
     
     if (gpx_file != ""){
         const options = {
             camera: viewer.scene.camera,
             canvas: viewer.scene.canvas,
-            clampToGround: clamp_to_ground,
+            clampToGround: clamp_to_ground{{ include.num }},
             waypointImage: ""
         };
 
@@ -67,13 +68,15 @@
             );
         });
       }
-  </script>
+    })();
+</script>
+
 
 <style>
-  #cesiumContainer{
+  #cesiumContainer{{ include.num }} {
   overflow: hidden;
   width: 100%;
   height: {{ include.height }};
   border-radius: 5px;
   }
-</style
+</style>

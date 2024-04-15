@@ -15,7 +15,7 @@ layout: project-post
 ## Design Notes
 
 
-Years ago, I made a 7.5 synthetic quilt. It was too long, heavy and poorly made, but hell it was warm. The draw of synthetic insulation is that it doesn't lose the insulation properties of the material when wet, unlike down (When down wets out, it will compress and no longer keep you warm). It's been my bag of choice for winter trips, and it's kept me warm during some miserable wet, cold evenings. 
+Years ago, I made a 7.5 synthetic quilt. It was too long, heavy and poorly made, but hell it was warm. The draw of synthetic insulation is that it doesn't lose the insulation properties of the material when wet, unlike down. When down wets out, it will compress and no longer keep you warm. This 7.5oz quilt has been my bag of choice for winter trips, and it's kept me warm during some miserable wet, cold evenings. 
 
 Maggie bought a super heavy, bulky sleeping bag a while ago. As a Christmas gift, I decided to make her a similar quilt for use on our adventures. I also decided to make myself an ultralight quilt for future fast-packing adventures and Vol-Biv adventures even further in the future. 
 
