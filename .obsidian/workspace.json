@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md",
+                "file": "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md",
+                "file": "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md",
+                "file": "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md"
+                "file": "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md"
               }
             }
           },
@@ -169,6 +169,13 @@
   },
   "active": "460697647735485f",
   "lastOpenFiles": [
+    "_site/content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.html",
+    "_site/content/trips/Potato_Hill_XC_League20240608",
+    "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md",
+    "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md",
+    "content/trips/Potato_Hill_XC_League20240608/photos",
+    "content/trips/Potato_Hill_XC_League20240608",
+    "CNAME",
     "content/trips/Black_Mountain20230517/Black_Mountain20230517.md",
     "content/trips/Desolation_Wilderness20230425/Desolation_Wilderness20230425.md",
     "content/trips/Dunlap_Spring20240317/Dunlap_Spring20240317.md",
@@ -180,7 +187,6 @@
     "content/trips/Ralston_Peak20230408/Ralston_Peak20230408.md",
     "content/trips/Santa_Barbara20230521/Santa_Barbara20230521.md",
     "content/trips/SLC_and_Sun_Valley20230705/SLC_and_Sun_Valley20230705.md",
-    "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md",
     "content/trips/Tour_of_Boston_Marathon20230611/Tour_of_Boston_Marathon20230611.md",
     "content/trips/xRedRocks_Challenge_Day_120240925/xRedRocks_Challenge_Day_120240925.md",
     "content/trips/xRedRocks_Challenge_Day_220240926/xRedRocks_Challenge_Day_220240926.md",
@@ -193,13 +199,9 @@
     "_site/content/trips/xRedRocks_Challenge_Day_320240927",
     "content/trips/xRedRocks_Challenge_Day_320240927/day3.gpx",
     "content/trips/xRedRocks_Challenge_Day_320240927/photos",
-    "content/trips/xRedRocks_Challenge_Day_320240927",
     "images/rob.jpg",
     "_site/content/trips/xRedRocks_Challenge_Day_220240926/photos/task.png",
-    "_site/content/trips/xRedRocks_Challenge_Day_220240926/photos",
     "content/trips/xRedRocks_Challenge_Day_220240926/photos/task.png",
-    "_site/content/trips/xRedRocks_Challenge_Day_220240926/day2.gpx",
-    "content/trips/xRedRocks_Challenge_Day_220240926/day2.gpx",
     "_site/Untitled 1.md",
     "content/trips/38.62273420241004/38.62273420241004.md",
     "_site/content/trips/xRedRocks_Challenge_Day_120240925/photos/task.png",
@@ -212,8 +214,6 @@
     "content/projects/Outdoor_Gear/Synthetic_Quilts/Synthetic_Quilts.md",
     "_site/images/rob.jpg",
     "_layouts/rob.jpg",
-    "_layouts/20230122_154303.jpg",
-    "content/projects/Outdoor_Gear/Fabric_Analysis/Fabric_Analysis.md",
-    "content/projects/Outdoor_Gear/Fabric_Analysis/Analysis.md"
+    "_layouts/20230122_154303.jpg"
   ]
 }
