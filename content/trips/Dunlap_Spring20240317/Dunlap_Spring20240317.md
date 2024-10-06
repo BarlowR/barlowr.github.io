@@ -2,8 +2,8 @@
 published: true
 category: trip
 date: 2024-03-17T00:00:00-07:00
-title: Dunlap Spring 2024-03-17
-latitude: 36.840870
+title: Dunlap Spring 2024-03
+latitude: 36.84087
 longitude: -119.294191
 cover_photo: /content/trips/Dunlap_Spring20240317/photos/cover_photo.jpg
 layout: trip-report

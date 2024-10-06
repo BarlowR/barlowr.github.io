@@ -2,8 +2,7 @@
 published: true
 category: trip
 date: 2023-02-25T00:00:00-07:00
-title: East Molera Trail Big Sur 2023-02-25
-latitude: 36.289012
+title: East Molera Trail Big Sur 2023-02
 latitude: -121.792109
 cover_photo: /content/trips/East_Molera_Trail_Big_Sur20230225/photos/cover_photo.jpg
 layout: trip-report

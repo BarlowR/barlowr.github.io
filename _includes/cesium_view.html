@@ -56,6 +56,8 @@
             waypointImage: ""
         };
 
+        viewer.scene.postProcessStages.fxaa.enabled = true;
+
         viewer.dataSources.add(
           Cesium.GpxDataSource.load(
             gpx_file,

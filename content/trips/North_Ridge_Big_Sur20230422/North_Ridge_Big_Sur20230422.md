@@ -2,8 +2,7 @@
 published: true
 category: trip
 date: 2023-04-22T00:00:00-07:00
-title: North Ridge Big Sur 2023-04-22
-latitude: 36.214958
+title: North Ridge Big Sur 2023-04
 latitude: -121.706318
 cover_photo: /content/trips/North_Ridge_Big_Sur20230422/photos/cover_photo.jpg
 layout: trip-report

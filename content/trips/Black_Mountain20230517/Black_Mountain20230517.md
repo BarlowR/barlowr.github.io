@@ -2,9 +2,8 @@
 published: true
 category: trip
 date: 2023-05-17T00:00:00-07:00
-title: Black Mountain 2023-05-17
-latitude: 37.330459
-latitude: -122.144730
+title: Black Mountain 2023-05
+latitude: -122.14473
 cover_photo: /content/trips/Black_Mountain20230517/photos/cover_photo.jpg
 layout: trip-report
 ---

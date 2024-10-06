@@ -2,8 +2,7 @@
 published: true
 category: trip
 date: 2023-05-21T00:00:00-07:00
-title: Santa Barbara Part 1 2023-05-21
-latitude: 34.411342
+title: Santa Barbara Part 1 2023-05
 latitude: -119.735937
 cover_photo: /content/trips/Santa_Barbara20230521/photos/cover_photo.jpg
 layout: trip-report

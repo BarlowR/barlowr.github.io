@@ -2,9 +2,9 @@
 published: true
 category: trip
 date: 2024-03-31T00:00:00-07:00
-title: Mission Peak 2024-03-31
+title: Mission Peak 2024-03
 latitude: 37.512867
-longitude:  -121.881287
+longitude: -121.881287
 cover_photo: /content/trips/Mission_Peak20240331/photos/cover_photo.jpg
 layout: trip-report
 ---

@@ -9,13 +9,13 @@ body {
   --font-title-size : calc(var(--font-base-size)*2.618);
   --font-body-text : var(--font-base-size)/1.5 "Roboto", sans-serif;
 
-  --sidebar-percentage: 0.28;
+  --sidebar-percentage: 0.30;
   --header-height: 120px;
 
   --main-light: #e7e7e7;
   --main-dark: #140c0c;
-  --accent-light: #e6ebff;
-  --accent-dark: #3e2f2f;
+  --accent-light: #F5EFE1;
+  --accent-dark: rgb(112 90 144);;
     background-color: var(--main-light);
     padding-top:10vh;
     font: var(--font-body-text);
@@ -24,6 +24,11 @@ body {
     max-width: var(--full-width);
     margin: auto;
     height: 90vh;
+    color: var(--main-dark);
+}
+
+a {
+  color: var(--main-dark);
 }
 
 img {
@@ -39,7 +44,7 @@ img {
 
 #title-section {
   height: calc(var(--header-height) + var(--margin));
-  color: var(--accent-dark);
+  color: var(--main-dark);
 }
 
 #title-block {
@@ -154,10 +159,39 @@ h2 {
   font-size: calc(var(--font-base-size) * 1);
 }
 
+.navigation-subcategory.accordion {
+  display: block;
+  /* border: 1px solid black; */
+  margin: 0px 0px 0px 5px;
+  padding: 0px 0px 0px 5px;
+  margin-bottom: 5px;
+  width: 90%;
+}
+
 .accordion-sub {
   display: none;
 }
 
+.accordion-leaf {
+  display: block;
+  border-bottom: 1px solid black;
+  margin: 0px 0px 0px 10px;
+  padding: 0px 0px 0px 5px;
+  margin-bottom: 5px;
+  width: 90%;
+}
+
+.accordion-leaf:link {
+  text-decoration: none;
+  color: var(--main-dark);
+  border-color: var(--main-dark);
+}
+
+.accordion-leaf:visited {
+  text-decoration: none;
+  color: var(--accent-dark);
+  border-color: var(--accent-dark);
+}
 
 #content-body {
     --content-body-width: calc((1 - var(--sidebar-percentage)) * var(--full-width));
@@ -172,6 +206,8 @@ h2 {
 
     padding: var(--padding);
     box-sizing: border-box;
+
+
 }
 
 #content-body > h2 {

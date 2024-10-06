@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 350.5
   },
   "right": {
     "id": "f4a0d849a6c78b17",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md"
               }
             }
           },
@@ -167,52 +167,53 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f12d03a30e45e3c6",
+  "active": "460697647735485f",
   "lastOpenFiles": [
+    "content/trips/Black_Mountain20230517/Black_Mountain20230517.md",
+    "content/trips/Desolation_Wilderness20230425/Desolation_Wilderness20230425.md",
+    "content/trips/Dunlap_Spring20240317/Dunlap_Spring20240317.md",
+    "content/trips/Dunlap20230825/Dunlap20230825.md",
+    "content/trips/East_Molera_Trail_Big_Sur20230225/East_Molera_Trail_Big_Sur20230225.md",
+    "content/trips/Golden_Trout_Wilderness20230928/Golden_Trout_Wilderness20230928.md",
+    "content/trips/Mission_Peak20240331/Mission_Peak20240331.md",
+    "content/trips/North_Ridge_Big_Sur20230422/North_Ridge_Big_Sur20230422.md",
+    "content/trips/Ralston_Peak20230408/Ralston_Peak20230408.md",
+    "content/trips/Santa_Barbara20230521/Santa_Barbara20230521.md",
+    "content/trips/SLC_and_Sun_Valley20230705/SLC_and_Sun_Valley20230705.md",
+    "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md",
+    "content/trips/Tour_of_Boston_Marathon20230611/Tour_of_Boston_Marathon20230611.md",
+    "content/trips/xRedRocks_Challenge_Day_120240925/xRedRocks_Challenge_Day_120240925.md",
+    "content/trips/xRedRocks_Challenge_Day_220240926/xRedRocks_Challenge_Day_220240926.md",
+    "content/trips/xRedRocks_Challenge_Day_320240927/xRedRocks_Challenge_Day_320240927.md",
+    "_site/content/trips/xRedRocks_Challenge_Day_320240927/photos/task.png",
+    "_site/content/trips/xRedRocks_Challenge_Day_320240927/photos",
+    "content/trips/xRedRocks_Challenge_Day_320240927/photos/task.png",
+    "_site/content/trips/xRedRocks_Challenge_Day_320240927/day3.gpx",
+    "_site/content/trips/xRedRocks_Challenge_Day_320240927/xRedRocks_Challenge_Day_320240927.html",
+    "_site/content/trips/xRedRocks_Challenge_Day_320240927",
+    "content/trips/xRedRocks_Challenge_Day_320240927/day3.gpx",
+    "content/trips/xRedRocks_Challenge_Day_320240927/photos",
+    "content/trips/xRedRocks_Challenge_Day_320240927",
     "images/rob.jpg",
+    "_site/content/trips/xRedRocks_Challenge_Day_220240926/photos/task.png",
+    "_site/content/trips/xRedRocks_Challenge_Day_220240926/photos",
+    "content/trips/xRedRocks_Challenge_Day_220240926/photos/task.png",
+    "_site/content/trips/xRedRocks_Challenge_Day_220240926/day2.gpx",
+    "content/trips/xRedRocks_Challenge_Day_220240926/day2.gpx",
+    "_site/Untitled 1.md",
+    "content/trips/38.62273420241004/38.62273420241004.md",
+    "_site/content/trips/xRedRocks_Challenge_Day_120240925/photos/task.png",
+    "content/trips/xRedRocks_Challenge_Day_120240925/photos/task.png",
+    "content/trips/39.30981820241003/39.30981820241003.md",
+    "Untitled.md",
     "projects/apex.html.md",
     "content/training_log/Apr2023/Mini-wing_Laps.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "content/trips/Mission_Peak20240331/Mission_Peak20240331.md",
     "Sleep_and_Nutrition.md",
-    "_site/content/trips/Mission_Peak20240331/Mission_Peak20240331.html",
-    "_site/content/trips/Mission_Peak20240331",
     "content/projects/Outdoor_Gear/Synthetic_Quilts/Synthetic_Quilts.md",
-    "content/trips/Mission_Peak20240331/photos",
-    "content/trips/Mission_Peak20240331",
-    "content/trips/Dunlap_Spring20240317/Dunlap_Spring20240317.md",
-    "content/trips/Tour_of_Boston_Marathon20230611/Tour_of_Boston_Marathon20230611.md",
-    "_site/content/trips/Dunlap_Spring20240317/dunlap_2024_spring_day_1.gpx",
-    "content/trips/Dunlap_Spring20240317/dunlap_2024_spring_day_1.gpx",
-    "_site/content/trips/Tour_of_Boston_Marathon20230611/dunlap_2024_spring_day_1.gpx",
-    "content/trips/Tour_of_Boston_Marathon20230611/dunlap_2024_spring_day_1.gpx",
-    "_site/content/trips/Tour_of_Boston_Marathon20230611/dlpd1.gpx",
-    "content/trips/Tour_of_Boston_Marathon20230611/dlpd1.gpx",
-    "content/trips/Desolation_Wilderness20230425/Desolation_Wilderness20230425.md",
     "_site/images/rob.jpg",
     "_layouts/rob.jpg",
     "_layouts/20230122_154303.jpg",
-    "_includes/20230122_154303.jpg",
     "content/projects/Outdoor_Gear/Fabric_Analysis/Fabric_Analysis.md",
-    "_site/content/projects/Outdoor_Gear/Fabric_Analysis/photos/wind.png",
-    "_site/content/projects/Outdoor_Gear/Fabric_Analysis/photos/tarp.png",
-    "_site/content/projects/Outdoor_Gear/Fabric_Analysis/photos/quilt.png",
-    "_site/content/projects/Outdoor_Gear/Fabric_Analysis/photos/pack.png",
-    "_site/content/projects/Outdoor_Gear/Fabric_Analysis/photos/gc.png",
-    "content/projects/Outdoor_Gear/Fabric_Analysis/Analysis.md",
-    "content/projects/Outdoor_Gear/Tarp_&_Bivy/Original_Tarp_&_Bivy.md",
-    "_site/Untitled 2.md",
-    "content/projects/Outdoor_Gear/Original_Synthetic_Quilt/Original_Synthetic_Quilt.md",
-    "_site/projects/apex.html.md",
-    "content/projects/Outdoor_Gear/Running_Vest_Prototype_One/Running Vests.md",
-    "content/projects/Outdoor_Gear/Concertina_Bag/Concertina_Bag.md",
-    "content/projects/Outdoor_Gear/Ski_Traverse_Pack/Design.md",
-    "content/trips/Golden_Trout_Wilderness20230928/Golden_Trout_Wilderness20230928.md",
-    "content/projects/Outdoor_Gear/Ski_Traverse_Pack/Ski_Traverse_Pack_Report.md",
-    "content/projects/Outdoor_Gear/Ski_Traverse_Pack/Fabrication.md",
-    "content/trips/Dunlap20230825/Dunlap20230825.md",
-    "content/projects/Outdoor_Gear/Running_Vest_Prototype_One/Fabrication.md",
-    "content/projects/Outdoor_Gear/Running_Vest_Prototype_Two/Initial_Design.md"
+    "content/projects/Outdoor_Gear/Fabric_Analysis/Analysis.md"
   ]
 }

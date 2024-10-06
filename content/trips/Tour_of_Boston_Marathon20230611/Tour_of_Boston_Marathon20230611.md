@@ -2,8 +2,7 @@
 published: true
 category: trip
 date: 2023-06-11T00:00:00-07:00
-title: Tour of Boston Marathon 2023-06-11
-latitude: 42.348642
+title: Tour of Boston Marathon 2023-06
 latitude: -71.140257
 cover_photo: /content/trips/Tour_of_Boston_Marathon20230611/photos/cover_photo.jpg
 layout: trip-report

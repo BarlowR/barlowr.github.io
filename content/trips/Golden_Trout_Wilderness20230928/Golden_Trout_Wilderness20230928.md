@@ -2,7 +2,7 @@
 published: true
 category: trip
 date: 2023-09-28T00:00:00-07:00
-title: Golden Trout Wilderness 2023-09-28
+title: Golden Trout Wilderness 2023-09
 latitude: 36.334865
 longitude: -118.485063
 cover_photo: /content/trips/Golden_Trout_Wilderness20230928/photos/cover_photo.jpg

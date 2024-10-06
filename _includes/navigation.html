@@ -12,7 +12,7 @@
 <div class="project-categories accordion-sub">
 {%for project_category in project_categories %}
 
-    <div class="navigation-subcategory accordion"> -- {{project_category}}</div>
+    <div class="navigation-subcategory accordion"> {{project_category}} </div>
     <div class="projects accordion-sub">
     {% assign project_pages_in_category = project_pages | where: "project_category", project_category %}
     {% assign projects_in_category = project_pages_in_category | map: "project_name" | uniq %}
@@ -27,7 +27,7 @@
         {% for post in posts_in_project %}
             {% if post.layout == "project-report" %}
             {% else %}
-                ---- <a href = {{post.url}} > {{post.title}}</a> <br>
+                <a class="accordion-leaf" href = {{post.url}} > {{post.title}} </a> 
             {% endif %}
         {% endfor %}
         </div>
@@ -39,14 +39,14 @@
 <div class="navigation-category accordion">Trip Reports</div>
 <div class="trips accordion-sub">
 {% for post in trip_pages %}
-    -- <a href = {{post.url}} > {{post.title}} </a> <br>
+    <a class="accordion-leaf" href = {{post.url}} > {{post.title}} </a> 
 {% endfor %}
 </div>
 
 <div class="navigation-category accordion">Thoughts & Notes</div>
 <div class="notes accordion-sub">
 {% for post in post_pages %}
-    -- <a href = {{post.url}} > {{post.title}} </a> <br>
+    <a class="accordion-leaf" href = {{post.url}} > {{post.title}} </a> 
 {% endfor %}
 </div>
 
@@ -57,7 +57,7 @@
 {% for post in recent_sorted %}
     {% unless post.category contains "training_log" %}
         {% assign count = count | plus: 1 %}
-         -- <a href = {{post.url}} > {{post.title}} </a> <br>
+         <a class="accordion-leaf" href = {{post.url}} > {{post.title}} </a> 
         {% if count == 5 %} 
             {% break %} 
         {% endif %}
