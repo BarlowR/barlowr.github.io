@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md",
+                "file": "content/posts/Dec/Turning_26.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Turning_26"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"](/content/",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +78,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md",
+                "file": "content/posts/Nov/Sisyphus_2_Doing Hard Things.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sisyphus_2_Doing Hard Things"
             }
           },
           {
@@ -110,10 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md",
+                "file": "content/posts/Nov/Sisyphus_2_Doing Hard Things.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sisyphus_2_Doing Hard Things"
             }
           },
           {
@@ -124,7 +138,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md"
-              }
+                "file": "content/posts/Nov/Sisyphus_2_Doing Hard Things.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sisyphus_2_Doing Hard Things"
             }
           },
           {
@@ -146,7 +164,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -169,10 +189,20 @@
   },
   "active": "460697647735485f",
   "lastOpenFiles": [
+    "_site/content/posts/Dec/Turning_26.html",
+    "_site/content/posts/Dec",
+    "content/posts/Nov/Sisyphus_2_Doing Hard Things.md",
+    "content/posts/Dec/Turning_26.md",
+    "_site/content/posts/Nov/Sisyphus.html",
+    "_site/content/posts/Nov",
+    "content/posts/Dec/Reflection_on_turning_25.md",
+    "content/posts/Dec/Turning_26.html",
+    "content/posts/Nov/Sisyphus.md",
+    "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md",
+    "content/posts/Nov",
     "_site/content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.html",
     "_site/content/trips/Potato_Hill_XC_League20240608",
     "content/trips/Slide_Mountain_XC_League_Day_220240720/Slide_Mountain_XC_League_Day_220240720.md",
-    "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md",
     "content/trips/Potato_Hill_XC_League20240608/photos",
     "content/trips/Potato_Hill_XC_League20240608",
     "CNAME",
@@ -192,13 +222,7 @@
     "content/trips/xRedRocks_Challenge_Day_220240926/xRedRocks_Challenge_Day_220240926.md",
     "content/trips/xRedRocks_Challenge_Day_320240927/xRedRocks_Challenge_Day_320240927.md",
     "_site/content/trips/xRedRocks_Challenge_Day_320240927/photos/task.png",
-    "_site/content/trips/xRedRocks_Challenge_Day_320240927/photos",
     "content/trips/xRedRocks_Challenge_Day_320240927/photos/task.png",
-    "_site/content/trips/xRedRocks_Challenge_Day_320240927/day3.gpx",
-    "_site/content/trips/xRedRocks_Challenge_Day_320240927/xRedRocks_Challenge_Day_320240927.html",
-    "_site/content/trips/xRedRocks_Challenge_Day_320240927",
-    "content/trips/xRedRocks_Challenge_Day_320240927/day3.gpx",
-    "content/trips/xRedRocks_Challenge_Day_320240927/photos",
     "images/rob.jpg",
     "_site/content/trips/xRedRocks_Challenge_Day_220240926/photos/task.png",
     "content/trips/xRedRocks_Challenge_Day_220240926/photos/task.png",
@@ -208,10 +232,6 @@
     "content/trips/xRedRocks_Challenge_Day_120240925/photos/task.png",
     "content/trips/39.30981820241003/39.30981820241003.md",
     "Untitled.md",
-    "projects/apex.html.md",
-    "content/training_log/Apr2023/Mini-wing_Laps.md",
-    "Sleep_and_Nutrition.md",
-    "content/projects/Outdoor_Gear/Synthetic_Quilts/Synthetic_Quilts.md",
     "_site/images/rob.jpg",
     "_layouts/rob.jpg",
     "_layouts/20230122_154303.jpg"
