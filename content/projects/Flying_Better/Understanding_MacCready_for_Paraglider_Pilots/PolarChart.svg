@@ -9,6 +9,9 @@
    id="svg6787"
    inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
    sodipodi:docname="PolarChart.svg"
+   inkscape:export-filename="PolarChart.png"
+   inkscape:export-xdpi="195.38461"
+   inkscape:export-ydpi="195.38461"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.4645202"
-     inkscape:cx="96.277269"
-     inkscape:cy="190.84749"
+     inkscape:zoom="1.8681592"
+     inkscape:cx="152.0213"
+     inkscape:cy="181.72969"
      inkscape:window-width="1951"
      inkscape:window-height="975"
      inkscape:window-x="49"
@@ -34,7 +37,28 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
-     id="defs6784" />
+     id="defs6784">
+    <marker
+       style="overflow:visible"
+       id="Arrow1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606604"
+       markerHeight="6.7071066"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -151,19 +175,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
-       x="80.898018"
-       y="135.35315"
+       x="69.849251"
+       y="125.55337"
        id="text7714-9-9"><tspan
          sodipodi:role="line"
          id="tspan7712-8-1"
          style="stroke:none;stroke-width:1"
-         x="80.898018"
-         y="135.35315">SinkRate'(V<tspan
+         x="69.849251"
+         y="125.55337">SinkRate'(V<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
    id="tspan7804-4">Horizontal*</tspan>)</tspan></text>
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.824753;stroke-linecap:square;stroke-dasharray:0.824753, 1.6495;stroke-dashoffset:0;stroke-opacity:1"
        d="M 36.861099,74.922819 H 112.91257 V 97.365244"
        id="path7770-3" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1)"
+       d="M 113.09719,129.82859 92.032814,114.62999"
+       id="path8061"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
