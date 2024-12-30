@@ -44,8 +44,8 @@
 		}
 	}
 
-	postTitle = await tp.system.prompt("Enter the post Title");
-	postTitleString = postTitle.replaceAll(" ", "_");
+	postTitle = projectName;
+	postTitleString = projectNameString
 	await tp.file.move(projectPath + "/" + postTitleString);
 -%>
 ---
