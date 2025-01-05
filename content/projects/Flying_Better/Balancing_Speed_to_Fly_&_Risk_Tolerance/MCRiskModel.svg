@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5in"
+   height="3in"
+   viewBox="0 0 127 76.2"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="MCRiskModel.svg"
+   inkscape:export-filename="photos/MCRiskModel.png"
+   inkscape:export-xdpi="257.35248"
+   inkscape:export-ydpi="257.35248"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.7363338"
+     inkscape:cx="197.83062"
+     inkscape:cy="144.84542"
+     inkscape:window-width="1498"
+     inkscape:window-height="611"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="2.84974276"
+       markerHeight="4.707"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       d="M 18.13425,11.392029 V 63.237387 H 87.197043"
+       id="path236"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:1.76389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:square"
+       x="31.162537"
+       y="72.046608"
+       id="text292"><tspan
+         sodipodi:role="line"
+         id="tspan290"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="31.162537"
+         y="72.046608">Altitude (Risk Tolerance)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:49.5854;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:square"
+       x="-68.998726"
+       y="59.668068"
+       id="text900"
+       transform="rotate(-90,-32.302523,14.814841)"><tspan
+         x="-68.998726"
+         y="59.668068"
+         id="tspan4540"><tspan
+           style="font-size:3.52778px;stroke-width:0.5"
+           id="tspan4538">MacCready Multiplier</tspan></tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-opacity:1"
+       d="m 17.067174,56.077857 2.063065,-0.09377"
+       id="path1057" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-opacity:1"
+       d="m 25.442728,62.333949 0.09377,2.063065"
+       id="path1057-7" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-opacity:1"
+       d="m 83.306345,62.367 0.0938,2.063065"
+       id="path1057-6" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-opacity:1"
+       d="m 46.398523,62.480557 0.0938,2.063065"
+       id="path1057-6-0" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-opacity:1"
+       d="m 17.067174,15.707425 2.063065,-0.09377"
+       id="path1057-2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-opacity:1"
+       x="14.997574"
+       y="56.833206"
+       id="text1135"><tspan
+         sodipodi:role="line"
+         id="tspan1133"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="14.997574"
+         y="56.833206">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-opacity:1"
+       x="14.936207"
+       y="16.436617"
+       id="text1135-9"><tspan
+         sodipodi:role="line"
+         id="tspan1133-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5"
+         x="14.936207"
+         y="16.436617">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-opacity:1"
+       x="78.336906"
+       y="67.047577"
+       id="text1166"><tspan
+         sodipodi:role="line"
+         id="tspan1164"
+         style="stroke-width:0.5"
+         x="78.336906"
+         y="67.047577">Top of Lift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-opacity:1"
+       x="37.585201"
+       y="67.322937"
+       id="text1170"><tspan
+         sodipodi:role="line"
+         id="tspan1168"
+         style="stroke-width:0.5"
+         x="37.585201"
+         y="67.322937">Altitude (Risk) Threshold</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.499999;stroke-linecap:square;stroke-opacity:1"
+       x="20.683323"
+       y="67.28495"
+       id="text1170-6"><tspan
+         sodipodi:role="line"
+         id="tspan1168-1"
+         style="stroke-width:0.5"
+         x="20.683323"
+         y="67.28495">Go Land</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow1)"
+       d="m 20.623059,56.048313 25.497969,-0.15238 h 0.27535"
+       id="path1248"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#f10000;stroke-width:0.5;stroke-linecap:square;stroke-dasharray:0.5, 1;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 47.128868,44.225791 C 53.460374,33.568542 62.049706,15.557243 83.293203,15.557243"
+       id="path1250"
+       sodipodi:nodetypes="cc" />
+    <path
+       d="m 47.291254,15.638511 c 17.60766,0.314142 23.911286,-0.02102 36.164342,-0.02102"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-opacity:1"
+       id="path1285" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;fill-opacity:1;stroke:#ffa8a8;stroke-width:0.499999;stroke-linecap:square;stroke-dasharray:0.499999, 1;stroke-dashoffset:0;stroke-opacity:1"
+       x="47.999844"
+       y="14.780903"
+       id="text2130"><tspan
+         sodipodi:role="line"
+         id="tspan2128"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+         x="47.999844"
+         y="14.780903">Basic Model</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#f10000;fill-opacity:1;stroke:#ffa8a8;stroke-width:0.499999;stroke-linecap:square;stroke-dasharray:0.499999, 1;stroke-dashoffset:0;stroke-opacity:1"
+       x="49.37117"
+       y="44.216492"
+       id="text2130-5"><tspan
+         sodipodi:role="line"
+         id="tspan2128-8"
+         style="fill:#f10000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-opacity:1"
+         x="49.37117"
+         y="44.216492">Advanced Model</tspan></text>
+  </g>
+</svg>

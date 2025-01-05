@@ -2,17 +2,18 @@
 published: true
 category: project
 project_category: Flying Better
-project_name: Understanding MacCready for Paraglider Pilots
+project_name: The Insight of MacCready Speed to Fly
 date: 2024-12-28T12:56:24-08:00
-title: Understanding MacCready for Paraglider Pilots
-cover_photo: /content/projects/Flying_Better/Understanding_MacCready_for_Paraglider_Pilots/photos/cover_photo.jpg
+title: The Insight of MacCready Speed to Fly
+cover_photo: /content/projects/Flying_Better/The_Insight_of_MacCready_Speed_to_Fly/photos/cover_photo.jpg
 layout: project-post
 ---
 
-## Understanding MacCready for Paraglider Pilots
+## The Insight of MacCready Speed to Fly
 2024-12-28
 
 # Introduction
+
 Dr. Paul MacCready was a prolific aeronautical engineer, known for [winning the Kremer prize for human powered aircaft](https://en.wikipedia.org/wiki/MacCready_Gossamer_Condor), wining the US sailplane nationals in 1948, 1949, and 1953, and starting the UAS company [Aerovironment](https://www.avinc.com/). MacReady speed to fly theory, invented by and named after Dr. MacCready, is a concept one may come across in any soaring sport (sailplanes, paragliders, etc). 
 
 MacCready theory seeks to answer a simple question: When a pilot is at the top of a thermal in a non-powered aircraft, how fast should the pilot fly to the next thermal?
@@ -67,7 +68,7 @@ However, this relationship also works the other way. Given the fixed relationshi
 The first clear example of this is on glide between thermals. If a pilot is flying at MC 2m/s, and they come across a 3m/s climb, this pilot should obviously take the climb. Said another way, gaining 3 meters per second is worth more than the loss in time of stopping progress down course line. Conversely, if a pilot flying at MC 2m/s comes across a climb that is only 1m/s, they shouldn't take it. This is because gaining 1 meter per second is worth less than the time loss it incurs. 
 
 By setting a MacCready value, one is then not just setting a speed to fly, but is *defining the relationship between time (speed) and altitude.* 
-## Using MacCready number to reason about trades of speed to altitude
+## Using MacCready number to reason about trades of time to altitude
 
 In sailplanes, pilots install rings around their airspeed indicator that can adjusted to a desired MC numbed, yielding the corresponding speed to fly. It's not only the speed that good pilots look at, but also the MC number. Since this number defines the relationship between speed and altitude, it can be used to make decisions in cross country or competition flight. 
 

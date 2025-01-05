@@ -15,7 +15,7 @@ layout: project-post
 
 ## Brief MacCready Solution Derivation
 
-Here's a brief derivation of MacCready speed to fly theory. See  [Understanding MacCready for Paraglider Pilots](/content/projects/Flying_Better/Understanding_MacCready_for_Paraglider_Pilots/Understanding_MacCready_for_Paraglider_Pilots) for the bigger picture.
+Here's a brief derivation of MacCready speed to fly theory. See  [The Insight of MacCready Speed to Fly](/content/projects/Flying_Better/The_Insight_of_MacCready_Speed_to_Fly/The_Insight_of_MacCready_Speed_to_Fly) for the bigger picture.
 
 {%- include photo.html 
     path="photos/MCDiagram.png"

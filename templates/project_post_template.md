@@ -45,8 +45,8 @@
 	}
 
 	postTitle = projectName;
-	postTitleString = projectNameString
-	await tp.file.move(projectPath + "/" + postTitleString);
+	postTitleString = projectName;
+	await tp.file.move(projectPath + "/" + projectNameString);
 -%>
 ---
 published: false
