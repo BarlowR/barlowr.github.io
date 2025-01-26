@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/projects/Flying_Better/Balancing_Speed_to_Fly_&_Risk_Tolerance/Balancing_Speed_to_Fly_&_Risk_Tolerance.md",
+                "file": "content/posts/Dec/Turning_26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Balancing_Speed_to_Fly_&_Risk_Tolerance"
+              "title": "Turning_26"
             }
           }
         ]
@@ -189,16 +189,30 @@
   },
   "active": "460697647735485f",
   "lastOpenFiles": [
+    "content/projects/Outdoor_Gear/Fabric_Analysis/Fabric_Analysis.md",
+    "content/projects/Outdoor_Gear/Original_Synthetic_Quilt/Original_Synthetic_Quilt.md",
+    "content/projects/Outdoor_Gear/Running_Vest_Prototype_One/Running Vests.md",
+    "content/projects/Outdoor_Gear/Ski_Traverse_Pack/Design.md",
+    "content/projects/Outdoor_Gear/Synthetic_Quilts/Synthetic_Quilts.md",
+    "content/projects/Outdoor_Gear/Tarp_&_Bivy/Original_Tarp_&_Bivy.md",
+    "content/projects/Outdoor_Gear/Concertina_Bag/Concertina_Bag.md",
+    "content/projects/Flying_Better/Application_of_the_Integrated_Speed_to_Fly_Model/Application_of_the_Integrated_Speed_to_Fly_Model.md",
+    "content/posts/Sep/Running_Around_in_the_Mountains.md",
+    "content/posts/Sep/Thoughts_on_Training.md",
+    "content/posts/Sep/Training_for_the_Mountains.md",
+    "content/posts/Sep/Replacing_a_Paraglider_Line.md",
+    "content/posts/Nov/Sisyphus.md",
+    "content/posts/Mar/Finding_Beauty_in_Industrial_Expanse.md",
+    "content/posts/Dec/Turning_26.md",
+    "content/projects/Flying_Better/Balancing_Speed_to_Fly_&_Risk_Tolerance/Balancing_Speed_to_Fly_&_Risk_Tolerance.md",
     "content/projects/Flying_Better/Preparation_for_Cross_Country_Flight/Preparation_for_Cross_Country_Flight.md",
     "content/projects/Flying_Better/MacCready_Speed_to_Fly_Derivation/MacCready_Speed_to_Fly_Derivation.md",
-    "content/projects/Flying_Better/Application_of_the_Integrated_Speed_to_Fly_Model/Application_of_the_Integrated_Speed_to_Fly_Model.md",
     "content/projects/Flying_Better/Balancing_Speed_to_Fly_&_Risk_Tolerance/photos/risktrade.png",
     "_site/content/projects/Flying_Better/Application_of_the_Integrated_Speed_to_Fly_Model/Application_of_the_Integrated_Speed_to_Fly_Model.html",
     "_site/content/projects/Flying_Better/Application_of_the_Integrated_Speed_to_Fly_Model",
     "_site/content/projects/Flying_Better/Application_of_Complete_Speed_to_Fly_Model/Application_of_the_Integrated_Speed_to_Fly_Model.html",
     "_site/content/projects/Flying_Better/Application_of_Complete_Speed_to_Fly_Model/Application_of_Complete_Speed_to_Fly_Model.html",
     "_site/content/projects/Flying_Better/Application_of_Complete_Speed_to_Fly_Model",
-    "content/projects/Flying_Better/Balancing_Speed_to_Fly_&_Risk_Tolerance/Balancing_Speed_to_Fly_&_Risk_Tolerance.md",
     "content/projects/Flying_Better/Balancing_Speed_to_Fly_&_Risk_Tolerance/MCRiskModel.svg",
     "templates/project_post_template.md",
     "content/projects/Flying_Better/Application_of_the_Integrated_Speed_to_Fly_Model/photos",
@@ -220,19 +234,6 @@
     "pag.md",
     "content/projects/Micro_Soaring/Terrain_Generation/Terrain_Generation.md",
     "Oh-Shit Kit.md",
-    "_site/Oh-Shit Kit.md",
-    "content/posts/Sep/Thoughts_on_Training.md",
-    "content/posts/Sep/Running_Around_in_the_Mountains.md",
-    "content/posts/Sep/Replacing_a_Paraglider_Line.md",
-    "templates/project_report_template.md",
-    "content/projects/Flying_Better/Understanding_MacCready_for_Paraglider_Pilots.md",
-    "_site/content/projects/Flying_Better/Understanding_MacCready_for_Paraglider_Pilots.md",
-    "content/posts/Dec/Turning_26.md",
-    "content/posts/Nov/Sisyphus_2_Doing Hard Things.md",
-    "content/posts/Nov/Sisyphus.md",
-    "content/posts/Mar/Finding_Beauty_in_Industrial_Expanse.md",
-    "content/projects/Outdoor_Gear/Concertina_Bag/Concertina_Bag.md",
-    "content/posts/Dec/Reflection_on_turning_25.md",
-    "content/trips/Potato_Hill_XC_League20240608/Potato_Hill_XC_League20240608.md"
+    "_site/Oh-Shit Kit.md"
   ]
 }

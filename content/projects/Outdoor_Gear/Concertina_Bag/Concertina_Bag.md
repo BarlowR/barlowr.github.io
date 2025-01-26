@@ -1,8 +1,8 @@
 ---
-published: true
+published: false
 category: project
-project_category : Outdoor Gear
-project_name : Concertina Bag
+project_category: Outdoor Gear
+project_name: Concertina Bag
 date: 2024-01-24T13:20:32-08:00
 title: Concertina Bag
 cover_photo: /content/projects/Outdoor_Gear/Concertina_Bag/photos/cover_photo.jpg

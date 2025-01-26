@@ -24,13 +24,11 @@ Both quilts would share the following features:
 * Loop and cinch on bottom closure
 * Single buckle clasp on top and elastic cinch
 
-
 Mine would use a single layer of 3.6oz apex insulation and orange and purple [Ion Fabric](https://dutchwaregear.com/product/ion/), and I would use 2 layers of 3.6 for Maggie's and [Hexon 1.6](https://dutchwaregear.com/product/hexon-1-6/) fabric in orange/purple/black.
-
 
 ## Fabrication Notes
 
-I decided to sew patterns into the top of both quilts. I had a hell of a time lining everything up, even though the panels were all straight cuts. My sewing machine would pull along the slippery fabric of the bottom panel, but there wasn't enough friction between the layers to pull along the top as much. My mom does a bunch of real quilt sewing with convex/concave curves, and she suggested pinning the fabric every 6 inches or so. I'll try that next time.
+I decided to sew patterns into the top of both quilts. I had a hell of a time lining everything up, even though the panels were all straight cuts. My sewing machine would pull along the slippery fabric of the bottom panel, but there wasn't enough friction between the layers to pull along the top as much. 
 
 {%- include photo.html 
     path="photos/sewingpanels.jpg"
@@ -58,7 +56,7 @@ I decided to sew patterns into the top of both quilts. I had a hell of a time li
 <br>
 ## Use Notes
 
-I'm psyched with how these all turned out. Mine packs down to roughly the size of a Nalgene bottle, and Maggie's is much, much smaller than her other bag. We took a trip to Ventana over new years's eve, and we camped the night in a valley where it was damp and maybe ~40f. Maggie said that she was warm and toasty!  
+I'm psyched with how these all turned out. Mine packs down to roughly the size of a Nalgene bottle, and Maggie's is much, much smaller than her other sleeping bag. We took a trip to Ventana over new years's eve, and we camped the night in a valley where it was damp and maybe ~40f. Maggie said that she was warm and toasty!  
 
 {%- include photo.html 
     path="photos/maggietrip.jpg"
