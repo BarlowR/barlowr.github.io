@@ -22,7 +22,7 @@ layout: trip-report
 ---
 
 
-Day 3's task consisted of a hike to Edna peak, followed by an out and back hike to tag a cylinder around Delano. It was mandatory to hike both directions. From there, the next turnpoint was goal at the Monroe LZ. Winds were forecasted to be light and variable, with 15 km per hour of Southwest winds at top of lift. The forcast indicated that the day would start turning on (on the East faces) between 11:00 and 12:00. Top of lift would rise to 18,000 ft by 4:00 p.m.
+The third day of flying in the xRedRocks consisted of a hike to Edna peak, followed by an out and back hike to tag a cylinder around Delano. It was mandatory to hike both directions. From there, the next turnpoint was goal at the Monroe LZ. Winds were forecasted to be light and variable, with 15 km per hour of Southwest winds at top of lift. The forcast indicated that the day would start turning on (on the East faces) between 11:00 and 12:00. Top of lift would rise to 18,000 ft by 4:00 p.m.
 
 Similarly to day one, there were two options for the day. One was to do the hike, then take off and fly directly towards goal on glide to the ground. Then one could run 15 miles with 1500' of elevation gain to the LZ. The second option I saw was to do the hike, take off and fly the west side of the valley, then cross the valley to goal.
 

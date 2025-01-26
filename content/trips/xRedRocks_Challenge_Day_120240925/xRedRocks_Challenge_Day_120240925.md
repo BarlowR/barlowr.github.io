@@ -19,7 +19,7 @@ layout: trip-report
 -%}
 ---
 
-For the first day of the xRedRocks, the task begin at Cove, with a ground turnpoint around the town of Joseph, and an end of speed section/goal at the base of the V. There were two strategies that jumped out immediately:
+For the first day of the xRedRocks, the task began at Cove, with a ground turnpoint around the town of Joseph, and an end of speed section/goal at the base of the V. There were two strategies that jumped out immediately:
 
 The first was to launch immediately, glide and tag the turnpoint close to the Monroe LZ, then hike back up the hill and launch cove when the day was on and fly to goal. 
 

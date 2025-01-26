@@ -21,7 +21,7 @@ layout: trip-report
 
 ---
 
-This task today was pretty straightforward strategy wise: run up to Cove launch and go over the back. The adventure and pro division tasks continued into the desert, but challenge ended In the valley on the other side of the range. Weather was predicted to be light winds at the surface, increasing with altitude to be very strong at TOL. The HRRR updates kept changing between 25 to 40 kmh from the south to the east. Peak winds would be between 1 and 2 pm, exactly when I expected to be in the air.
+The second task of the xRedRocks was pretty straightforward strategy wise: run up to Cove launch and go over the back. The adventure and pro division tasks continued into the desert, but challenge ended in the valley on the other side of the range. Weather was predicted to be light winds at the surface, increasing with altitude to be very strong at TOL. The HRRR updates kept changing between 25 to 40 kmh from the south to the east. Peak winds would be between 1 and 2 pm, exactly when I expected to be in the air.
 
 I was quite concerned with that level of wind, and I decided to assess conditions on launch as to whether I would fly or not. We were allowed a drop bag to be brought up to cove launch, and I put my O2 system, a down jacket and my radio in the bag. If conditions were good, I hoped to be able to continue my flight on to the adventure/pro goal.
 
