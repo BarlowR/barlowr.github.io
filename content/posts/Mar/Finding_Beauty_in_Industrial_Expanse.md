@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 category: blog_post
 date: 2023-03-14T00:00:00-07:00
 title: Finding Beauty in Industrial Expanse

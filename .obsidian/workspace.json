@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/trips/xRedRocks_Challenge_Day_320240927/xRedRocks_Challenge_Day_320240927.md",
+                "file": "content/posts/Mar/Finding_Beauty_in_Industrial_Expanse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xRedRocks_Challenge_Day_320240927"
+              "title": "Finding_Beauty_in_Industrial_Expanse"
             }
           }
         ]
@@ -189,6 +189,7 @@
   },
   "active": "460697647735485f",
   "lastOpenFiles": [
+    "content/trips/xRedRocks_Challenge_Day_320240927/xRedRocks_Challenge_Day_320240927.md",
     "content/trips/xRedRocks_Challenge_Day_220240926/xRedRocks_Challenge_Day_220240926.md",
     "content/trips/xRedRocks_Challenge_Day_120240925/xRedRocks_Challenge_Day_120240925.md",
     "content/posts/Dec/Turning_26.md",
@@ -233,7 +234,6 @@
     "_site/content/projects/Flying_Better/The_Insight_of_MacCready_Speed_to_Fly/PolarChart.svg",
     "_site/content/projects/Flying_Better/The_Insight_of_MacCready_Speed_to_Fly/MCDiagram.svg",
     "_site/content/projects/Flying_Better/Balancing_Speed_to_Fly_&_Risk_Tolerance/photos/risktrade.png",
-    "pag.md",
-    "content/projects/Micro_Soaring/Terrain_Generation/Terrain_Generation.md"
+    "pag.md"
   ]
 }
